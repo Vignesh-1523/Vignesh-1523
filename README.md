@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Vignesh R, a selftaught programmer.
+- 👋 Hi, I’m Vignesh R, a self-taught programmer.
 - 👀 I’m interested in Web development !!
 - 🌱 I’m currently learning Full stack development(Java full stack) in Banglore.
 - 💞️ I’m looking to collaborate on entry level projects with startUp companies.
